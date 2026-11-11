@@ -35,7 +35,7 @@ public class FlashcardApp {
                         System.out.println("❌ Wrong. Answer: " + chinese[i]);
                     }
                     System.out.println(" ");
-                }
+                } 
 
                 System.out.println("Score: " + score + "/" + count);
             } else {
